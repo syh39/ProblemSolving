@@ -17,4 +17,4 @@
 # L2 = sorted(L1, key=lambda x: x['score'], reverse=True)
 # print(L2)
 
-print(5/2)
+print(5/~2)
