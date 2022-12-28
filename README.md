@@ -1,2 +1,2 @@
 # CodingTest
-This repo is for recording problems that are solved and enhancing the motivation for PS.
+This repository is for increasing motivation for algorithm problem solving and recording solved problems.
